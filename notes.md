@@ -23,3 +23,12 @@
 - Good tutorial on git and workflow: "use git the proper way"
 
 -Some useful command:
+# ----------------------------------------------------------------------------------------------------------
+
+Tutorial on GIT
+
+- to copy folder from GitHub onto local machine:
+     $ git clone http://githum.com/...
+
+- move into cloned folder and check the status of the cloned folder:
+     $ git status
