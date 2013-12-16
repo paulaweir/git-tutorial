@@ -19,3 +19,13 @@
 - Linux used BitKeeper (which derived from Sun TeamWare, built on SCCS + NFS) until there was a license fall out
 
 - Linus wrote Git (coincidentally another kernel developer wrote Mercurial)
+
+# ----------------------------------------------------------------------------------------------------------
+
+Tutorial on GIT
+
+- to copy folder from GitHub onto local machine:
+     $ git clone http://githum.com/...
+
+- move into cloned folder and check the status of the cloned folder:
+     $ git status
