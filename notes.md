@@ -20,6 +20,9 @@
 
 - Linus wrote Git (coincidentally another kernel developer wrote Mercurial)
 
+- Good tutorial on git and workflow: "use git the proper way"
+
+-Some useful command:
 # ----------------------------------------------------------------------------------------------------------
 
 Tutorial on GIT
